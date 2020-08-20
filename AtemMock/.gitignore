@@ -1,1 +1,5 @@
 *.pcapng
+dist-win/
+dist-linux/
+dist-win.zip
+dist-linux.zip
